@@ -35,9 +35,13 @@ In `main.ts` file :
 	- environment from './environments/environment'
 	
 In `test.ts` file : 
+
 	- zone.js/testing
+  
 	- getTestBed from '@angular/core/testing'
+  
 	- BrowserDynamicTestingModule from '@angular/platform-browser-dynamic/testing'
+  
 	- platformBrowserDynamicTesting from '@angular/platform-browser-dynamic/testing'
 
 ## Further help
