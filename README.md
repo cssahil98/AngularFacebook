@@ -25,9 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Modules Imported
 
 In `main.ts` file :
+
 	- enableProdMode from '@angular/core'
+  
 	- platformBrowserDynamic from '@angular/platform-browser-dynamic'
+  
 	- AppModule from './app/app.module'
+  
 	- environment from './environments/environment'
 	
 In `test.ts` file : 
